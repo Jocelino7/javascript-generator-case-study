@@ -1,0 +1,13 @@
+{
+  "name": "javascript-generators-case-study",
+  "version": "1.0.0",
+  "description": "Generators case study to work with data flux",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jocelino Fernandes",
+  "license": "ISC"
+}
